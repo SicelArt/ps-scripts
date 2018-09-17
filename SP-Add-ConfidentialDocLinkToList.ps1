@@ -1,3 +1,5 @@
+Add-PSSnapin "Microsoft.SharePoint.PowerShell"
+
 $webApplicationUrl = "http://SPFarmUrl"
 $listName = "Confidential List"
 
